@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.tabledata td{
+    background-color: rgb(163, 108, 99);
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+    padding-right: 35px;
+
+}
+.tabledata th{
+    background-color: rgb(83, 50, 83);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
